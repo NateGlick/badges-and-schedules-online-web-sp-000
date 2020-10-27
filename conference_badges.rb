@@ -27,5 +27,4 @@ def assign_rooms(attendees)
    end
    rooms.each do |room|
      puts room 
- end
 end
