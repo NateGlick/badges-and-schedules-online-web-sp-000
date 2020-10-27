@@ -28,3 +28,4 @@ def assign_rooms(attendees)
    rooms.each do |room|
      puts room 
   end
+end
