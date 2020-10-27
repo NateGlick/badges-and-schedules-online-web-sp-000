@@ -29,4 +29,5 @@ def assign_rooms(attendees)
    end
  end
  end
+ end
   
