@@ -18,4 +18,6 @@ def assign_rooms(attendees)
   rooms << room
  end
  rooms
+ 
+ def 
 end
