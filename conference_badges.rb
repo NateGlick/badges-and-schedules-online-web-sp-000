@@ -17,4 +17,5 @@ def assign_rooms(attendees)
   room = "Hello #{name}! You'll be assigned to room #{room += 1}!"
   rooms << room
  end
+ rooms
 end
