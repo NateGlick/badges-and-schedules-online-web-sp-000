@@ -13,6 +13,7 @@ end
 
 def assign_rooms(attendees)
   rooms = []
+  rooms << room
   attendees.each_with_index do |name, room|
   return "Hello #{name}! You'll be assigned to room #{room}!"
  end
