@@ -24,8 +24,8 @@ def assign_rooms(attendees)
    rooms = assign_rooms(attendees)
    badges.each do |badge|
      puts badge
-   end
+  end
    rooms.each do |room|
      puts room 
-   end
+  end
 end
